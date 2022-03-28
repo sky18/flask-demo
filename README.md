@@ -12,7 +12,7 @@ daydayup2022-python
 
 四、将本地的版本库推送到网上:
 
-$ git remote add origin https://github.com/sky18/git-demo.git
+$ git remote add origin https://github.com/sky18/flask-demo.git
 $ git push -u origin master     # 推送本地 master 去 origin
 $ git push -u origin dev        # 推送本地 dev  去 origin
 
